@@ -1,0 +1,6 @@
+{
+  "message_channels": {
+    "CHANNEL_ID": "GUILD_ID"
+  },
+  "show_old_listings_on_startup": false
+}
